@@ -5,9 +5,9 @@ A Jupyter notebook to perform backtesting for trading
 
 # USAGE
 - Open the Jupyter notebook
-- Go to the bottom coding cell
-- Input all information
-- Go back to the top
-- Run every coding cell except the last one
-- Read output results of your simulation
+- Follow instructions:
+       Run main code
+       Input appropriate info and run cell
+       Run output cell and read results from terminal
+
 
